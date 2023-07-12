@@ -8,6 +8,9 @@ using the MIM and DinoV2 models.
 [Blog post](wip)
 
 
+![image](./preds/pred_val_1.png)
+
+
 ## Run code 
 
 
