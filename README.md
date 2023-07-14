@@ -5,7 +5,7 @@ This repository contains 4th place solution for
 using the MIM and DinoV2 models.
 
 
-[Blog post](wip)
+[Blog post](https://medium.com/@tearth/my-journey-with-depth-estimation-8c53ab25cd8b)
 
 
 ![image](./preds/pred_val_1.png)
